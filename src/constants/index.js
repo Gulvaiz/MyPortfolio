@@ -28,7 +28,7 @@ export const PROJECTS = [
         title: "My Portfolio",
         image: logo,
         description: "I created a responsive personal portfolio website using React, JavaScript, Tailwind CSS, and Framer Motion to showcase my projects, education, skills, and contact information. It features a modern design, smooth animations, and a user-friendly layout. Key sections include Projects with links and details, About Me, Education, and a Contact Form. The site also offers downloadable resumes and certificates, with direct links to my GitHub, LinkedIn, and Gmail, serving as a professional platform for networking and opportunities.",
-        gitlink: "https://github.com/Gulvaiz/Google-Sheet-Clone",
+        gitlink: "https://gulvaizportfolio.netlify.app/",
         technologies: ["React JS", "Javascript", "HTML", "CSS", "VScode"]
     },
     {
