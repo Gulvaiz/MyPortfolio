@@ -39,7 +39,7 @@ const Education = () => {
       <p className="mb-2 text-neutral-400">AccioJob</p>
       <p className="mb-4 text-neutral-400">Nov,2024</p>
 
-      <a className="text-sm text-pink-500" href="/GulvaizCertificate.pdf">View Certificate</a>
+      <a className="text-m text-pink-500" href="/GulvaizCertificate.pdf" target="_blank">View Certificate</a>
 
       </div>
     </div>

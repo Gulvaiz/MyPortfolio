@@ -3,7 +3,6 @@ import {FaLinkedin} from "react-icons/fa"
 import { FaGithub } from "react-icons/fa";
 import { MdOutlineMail } from "react-icons/md";
 import { CONTACT } from "../constants";
-import { FaBookReader } from "react-icons/fa";
 
 const Navbar = () => {
   return (
@@ -16,7 +15,7 @@ const Navbar = () => {
             <div className="flex gap-4 text-xl m-8 items-center justify-center">
             
            
-            <a href="/ResumeGulvaizMERN.pdf" target="_blank"><FaBookReader /></a>
+            <a href="/GulvaizMERN2.pdf" target="_blank" className="text-sm">Resume</a>
             
 
                <a className="no-underline" target="_blank" href={CONTACT.linkedin}><FaLinkedin size={20}/></a>
